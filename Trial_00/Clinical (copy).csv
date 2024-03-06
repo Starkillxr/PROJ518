@@ -1,0 +1,97 @@
+Age,Sex,Resection type,Pathologic grade,Subtype,Atypical features,Brain invasion,Mitotic count,Grouped location
+67,F,GTR,II,Atypical,Sheeting,N,4 per 10 hpf,Convexity
+82,F,STR,II,Atypical,Hypercellular,N,5 per 10 hpf,Falx & Parasagittal
+83,F,GTR,I,Meningothelial,N,N ,Rare,Middle Cranial Fossa
+57,F ,GTR,I,Meningothelial,N,N,Rare,Convexity
+42,F ,GTR,I,Secretory,N,N,None,Middle Cranial Fossa
+57,M,GTR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+74,F,GTR,II,Atypical,Hypercellular,N,None,Falx & Parasagittal
+33,F,GTR,II,Atypical,Hypercellular,N,4 per 10 hpf,Convexity
+61,M,STR,II,Atypical,N,N ,6 per 10 hpf,Middle Cranial Fossa
+56,F,STR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+54,F,STR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+81,F,GTR,I,Meningothelial,N,N,Rare,Falx & Parasagittal
+88,F,GTR,II,Atypical,Hypercellular,N,4 per 10 hpf,Convexity
+55,M,GTR,II,Atypical,N,N,6 per 10 hpf,Convexity
+77,M,GTR,II,Mixed ,Sheeting,N,Rare,Falx & Parasagittal
+71,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+64,M,STR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+60,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+38,F,STR,I,Meningothelial,N,N,None,Posterior Cranial Fossa
+55,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+61,M,GTR,II,Atypical,Sheeting,N,5 per 10 hpf,Falx & Parasagittal
+37,F,GTR,I,Meningothelial,N,N,Rare,Lateral Ventricle
+39,F,STR,I,Meningothelial,N,N ,1 per 10 hpf,Posterior Cranial Fossa
+56,M,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+74,M,STR,I,Secretory,N,N,2 per 10 hpf,Middle Cranial Fossa
+85,M,STR,II,Chordoid,N,N,Rare,Middle Cranial Fossa
+51,F,STR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+47,F,GTR,I,Meningothelial,N,N,Rare,Anterior Cranial Fossa
+66,M,STR,II,Atypical,Hypercellularity,Y,4 per 10 hpf,Falx & Parasagittal
+59,F,STR,I,Meningothelial,N,N,Rare,Falx & Parasagittal
+55,F,GTR,II,Chordoid,N,Y,Rare,Anterior Cranial Fossa
+64,F,GTR,II,Atypical,Necrosis,Y,Rare,Falx & Parasagittal
+46,M,GTR,I,Meningothelial,N,N,1 per 10 hpf,Middle Cranial Fossa
+74,F,STR,II,Atypical,Necrosis,N,5 per 10 hpf,Middle Cranial Fossa
+47,F,GTR,I,Meningothelial,N,N,None,Posterior Cranial Fossa
+42,F,GTR,I,Psammomatous,N,N,None,Falx & Parasagittal
+72,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+56,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+44,F,GTR,I,Meningothelial,N,N,Rare,Posterior Cranial Fossa
+56,F,GTR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+61,M,STR,II,Atypical,N,N,4 per 10 hpf,Convexity
+60,F,GTR,I,Meningothelial,N,N,Rare,Falx & Parasagittal
+50,F,GTR,I,Fibrous,N,N,Rare,Posterior Cranial Fossa
+61,F,STR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+65,F,GTR,II,Atypical,Small cells,N,4 per 10 hpf,Anterior Cranial Fossa
+32,F,STR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+64,F,GTR,I,Meningothelial,N,N,Rare,Falx & Parasagittal
+66,M,STR,II,Atypical,Hypercellular,Y,6 per 10 hpf,Middle Cranial Fossa
+31,F,GTR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+56,F,GTR,II,Atypical,N,Y,None,Convexity
+52,M,GTR,II,Atypical,Necrosis,N,5 per 10 hpf,Middle Cranial Fossa
+75,F,GTR,I,Meningothelial,Necrosis (rare),N,None,Posterior Cranial Fossa
+50,F,STR,I,Meningothelial,Small cells,N,Rare,Middle Cranial Fossa
+49,M,GTR,I,Meningothelial,N,N,Rare,Anterior Cranial Fossa
+39,F,STR,I,Meningothelial,N,N,Rare,Posterior Cranial Fossa
+48,F,STR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+57,F,STR,II,Atypical,N,N,4 per 10 hpf,Middle Cranial Fossa
+46,F,GTR,I,Meningothelial,Hypercellular,N,Rare,Middle Cranial Fossa
+54,F,GTR,I,Meningothelial,N,N,Rare,Lateral Ventricle
+69,M,GTR,II,Atypical,Sheeting,Y,6 per 10 hpf,Falx & Parasagittal
+58,F,GTR,I,Meningothelial,N,N,2 per 10 hpf,Convexity
+59,M,STR,II,Atypical,Small cells with high Nuclear:Cytoplasm ratio ,Y,Rare,Posterior Cranial Fossa
+35,F,GTR,II,Atypical,N,N,4 per 10 hpf,Middle Cranial Fossa
+46,M,GTR,II,Atypical,Small cells,N,5 per 10 hpf,Convexity
+64,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+50,F,STR,I,Meningothelial,N,N,2 per 10 hpf,Anterior Cranial Fossa
+55,F,STR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+50,F,STR,I,Meningothelial,N,N,Rare,Falx & Parasagittal
+72,M,GTR,II,Chordoid,N,N,Rare,Convexity
+72,M,STR,II,Atypical,Hypercellular,N,7 per 10 hpf,Convexity
+66,F,GTR,II,Atypical,Hypercellular,N,Rare,Convexity
+55,F,STR,I,Secretory,N,N,None,Posterior Cranial Fossa
+50,F,GTR,II,Atypical,Hypercellular,N,4 per 10 hpf,Middle Cranial Fossa
+37,F,STR,I,Meningothelial,N,N,Rare,Middle Cranial Fossa
+29,M,STR,II,Atypical,Hypercellular,N,2 per 10 hpf,Falx & Parasagittal
+37,M,GTR,II,Atypical,Hypercellular,N,4 per 10 hpf,Convexity
+36,F,GTR,I,Meningothelial,N,N,2 per 10 hpf,Falx & Parasagittal
+64,M,GTR,II,Atypical,N,N,2 per 10 hpf,Convexity
+37,M,STR,I,Meningothelial,N,N,None,Anterior Cranial Fossa
+53,F,GTR,II,Atypical,Clear cell,Y,6-8 per 10 hpf,Convexity
+53,F,GTR,II,Atypical,Hypercellular,N,4 per 10 hpf,Convexity
+25,F,STR,I,Meningothelial,N,N,Rare,Falx & Parasagittal
+64,F,GTR,I,Meningothelial,N,N,None,Middle Cranial Fossa
+61,M,GTR,II,Atypical,Hypercellular,Y,7 per 10 hpf,Convexity
+38,F,STR,II,Atypical,N,N,4 per 10 hpf,Middle Cranial Fossa
+67,F,STR,II,Atypical,Small cells Macronucleoli,Y,6 per 10 hpf,Falx & Parasagittal
+47,M,GTR,II,Atypical,N,Y,4 per 10 hpf,Convexity
+67,F,STR,II,Atypical,N,N ,5 per 10 hpf,Middle Cranial Fossa
+43,F,GTR,I,Secretory,N,N ,Rare,Posterior Cranial Fossa
+44,F,GTR,II,Atypical,Hypercellular,N,Rare,Middle Cranial Fossa
+41,F,GTR,I,Meningothelial,Hypercellular,N,2 per 10 hpf,Posterior Cranial Fossa
+77,M,GTR,II,Atypical,Small cells,N,9 per 10 hpf,Convexity
+59,F,STR,I,Meningothelial,N,N,Rare,Posterior Cranial Fossa
+72,M,GTR,I,Secretory,N,N,Rare,Convexity
+72,F,STR,II,Atypical,N,Y,2 per 10 hpf,Middle Cranial Fossa
+30,M,GTR,II,Atypical,Hypercellular,N,2 per 10 hpf,Middle Cranial Fossa
